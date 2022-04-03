@@ -31,7 +31,7 @@ Top movies from other non-English speaking nations do add value to the business.
 
 
 
-# Future scope:
+# Future scope
 
 Inclusion of factors like cast and director
 Predicting a list of most profitable movies
